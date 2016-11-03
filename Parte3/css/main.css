@@ -1,0 +1,6 @@
+.uno, .dos, .tres {
+  border: 2px solid orange;
+  width: 200px;
+  text-align:inherit;
+  font-size: 14px;
+}

@@ -1,0 +1,5 @@
+.div1, .div2, .div3{
+  border: 5px solid orange;
+  width: 250px;
+  text-align:inherit;
+}
