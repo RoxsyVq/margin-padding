@@ -1,6 +1,7 @@
 
 .uno{
   border: 3px solid orange;
-  width: 300px;
+  width: 250px;
   text-align:inherit;
+  font-size: 15px;
 }
